@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* ProductsStyleSheet */
+.productsContainer{
+	margin: auto;
+	width: 75%;
+	background-color: #949494;
+	text-align: center;
+}
+.productsContainer div{
+	margin: auto;
+	color: white;
+	font-size: 30px;
+}
+.productsContainer label{
+	color: white;
+	font-size: 25px;
+}
